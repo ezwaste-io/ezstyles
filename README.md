@@ -13,8 +13,7 @@ npm install @ezwaste/ezstyles
 in your css file:
 
 ```css
-@import 'tailwindcss';
-@import "tw-animate-css";
+@import 'tailwindcss'; /* technically optional since this is imported in ezstyles*/
 @import "@ezwaste/ezstyles/theme.css";
 
 /*custom styles here*/
