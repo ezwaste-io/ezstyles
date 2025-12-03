@@ -16,5 +16,6 @@ in your css file:
 @import 'tailwindcss'; /* technically optional since this is imported in ezstyles*/
 @import "@ezwaste/ezstyles/theme.css";
 
+
 /*custom styles here*/
 ```
