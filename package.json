@@ -2,7 +2,7 @@
   "name": "@ezwaste/ezstyles",
   "description": "Common styles for ezWaste projects",
   "private": false,
-  "version": "0.1.1",
+  "version": "0.2.0",
   "type": "module",
   "files": ["src"],
   "exports": {"./theme.css": "./src/theme.css"},
